@@ -1,0 +1,30 @@
+div{
+    padding: 10px;
+    background-color: lightgreen;
+    width: 20%;
+        text-align: center;
+        line-height: 50px;
+        
+}
+/* customize style for each section */
+/* 
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+} */
+
+#section1 {
+    background-color: lightgreen;
+}
+#section2 {
+    background-color: lightblue;
+}
+#section3 {
+    background-color: orange;
+}
+
+
+
+    

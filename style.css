@@ -1,0 +1,238 @@
+.plansAndPricing{
+    padding: 20px 20px 60px 20px;
+    background-color: #F3F7FA;
+}
+
+
+.center{
+    text-align: center;
+}
+
+.plans{
+    display: flex;
+    text-align: center;
+    color: white;
+}
+
+.trial{
+    background-color: #1EBB90;
+    margin: 10px;
+    border-radius: 10px;
+    width: 50%;
+}
+
+.trialTitle{
+    background-color: #14AF85;
+    font-size: 30px;
+    padding: 30px;
+    margin: 0%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.monthlyTitle{
+    background-color: #129EC2;
+    font-size: 30px;
+    padding: 2px;
+    margin: 0%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.yearlyTitle{
+    background-color: #F9B015;
+    font-size: 30px;
+    padding: 2px;
+    margin: 0%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.monthlyContent,.yearlyContent{
+    font-size: 25px;
+    margin: 25px;
+}
+
+.monthly{
+    background-color: #1EAACE;
+    margin: 10px;
+    border-radius: 10px;
+    width: 50%;
+}
+
+.yearly{
+    background-color: #FEBD2F;
+    margin: 10px;
+    border-radius: 10px;
+    width: 50%;
+}
+
+.stopwatchImg{
+    height: 70px;
+    width: 70px;
+}
+
+.trialAmount{
+    font-size: 30px;
+}
+
+.monthlyAmount,.yearlyAmount{
+    font-size: 40px;
+}
+
+.trialButton{
+    background-color: #0F8F6C;
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    margin: 0px 0px 35px 0px;  
+}
+
+
+.monthlyButton{
+    background-color: #0A7E9B;
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    margin: 0px 0px 35px 0px;  
+
+}
+
+.yearlyButton{
+    background-color: #F0631E;
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    margin: 0px 0px 35px 0px;
+}
+
+
+
+
+.calenderAndPosts{
+    display: flex;
+}
+
+
+/* Calender */
+
+.calender{
+    margin: 10px;
+    width: 50%;
+}
+
+.calenderTitle{
+    padding-left: 10px;
+    font-size: 30px;
+}
+
+.calenderMonth{
+    text-align: center;
+    opacity: 0.5;
+}
+
+.previousMonth{
+    opacity: 0.5;
+    padding-left: 30px;
+}
+
+.calenderGrid{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+    padding: 10px;
+}
+
+.gridItem{
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+}
+
+.gridItem13{
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    border: 3px solid #14AF85;
+    border-radius: 10px;
+}
+
+
+/* Popular */
+
+
+.popular{
+    margin: 10px;
+    width: 50%;
+}
+
+.popularButtons{
+    background-color: #1EBB90;
+    color: white;
+    border: solid;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.popularContent{
+    font-size: 20px;
+}
+
+.recentPosts{
+    margin: 10px;
+}
+
+
+.popular{
+    margin: 10px;
+}
+
+.popularTitle{
+    font-size: 30px;
+}
+
+.ucBerkley, .uq{
+    color: orange;
+}
+
+.kyotoU{
+    color: #1FBB90;
+}
+
+.harvard{
+    color: #1FAACE;
+}
+
+
+/* Post */
+
+.post{
+    display: flex;
+    width: 50%;
+}
+
+.postTitle{
+    font-size: 30px;
+}
+
+.postImg{
+    margin-top: 15px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    margin-left: 0px;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+}
+
+.postContent{
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+    margin-top: 15px;
+}
+
+
+
